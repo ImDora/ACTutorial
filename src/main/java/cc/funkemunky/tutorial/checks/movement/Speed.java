@@ -45,3 +45,5 @@ public class Speed extends Check {
     }
 
 }
+
+Ur gay
